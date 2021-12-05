@@ -261,3 +261,6 @@ In this exercise, you've built a clone of a piece of the npm home page. This sit
 This concludes the HTML / CSS module. We are proud of you!
 
 _The Ironhack team :heart:_
+# npm-clone-challenge
+#   n p m - c l o n e - c h a l l e n g e  
+ 
